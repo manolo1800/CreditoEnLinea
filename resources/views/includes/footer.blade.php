@@ -1,0 +1,1 @@
+<div id="copyright text-right">Desarrollado por Manuel Cisneros &copy; {{date('Y')}}</div>
